@@ -1,6 +1,6 @@
 # Federated Learning with Adaptive Preprocessing
 
-Pipeline 2 compares **FedAvg, FedProx, and FedMomentum** on non-IID EMNIST Balanced data, with an optional epsilon-greedy bandit that selects an image enhancement each round. It supports a control run with fixed preprocessing and a separate run with adaptive preprocessing.
+The proposed pipeline compares **FedAvg, FedProx, and FedMomentum** on non-IID EMNIST Balanced data, with an optional epsilon-greedy bandit that selects an image enhancement each round. It supports a control run with fixed preprocessing and a separate run with adaptive preprocessing.
 
 ## Experiment
 
