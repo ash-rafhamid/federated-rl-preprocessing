@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.env.*
+kaggle.json
+credentials.json
+datasets/
+*.pt
+*.pth
+pipeline2_no_rl.json
+pipeline2_with_rl.json
+.DS_Store
+Thumbs.db
